@@ -1,0 +1,24 @@
+{
+  "name": "EITiot",
+  "version": "0.0.0",
+  "description": "Server for DMX project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testmode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frwilav/EITiot"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "William Lavoué",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Frwilav/EITiot/issues"
+  },
+  "dependencies": {
+    "mongoose": "~4.4.13"
+  }
+}
